@@ -73,18 +73,18 @@ This repository is structured to guide you through frontend development step by 
 - **Cypress / Playwright** – End-to-end testing.
 - **React Testing Library** – Unit testing React apps.
 
-## 1️⃣1️⃣ Progressive Web Apps (PWA)
+## 🔟.1️⃣ Progressive Web Apps (PWA)
 - **Service Workers** – Offline capabilities.
 - **Web Manifest** – Enhances mobile experience.
 - **Push Notifications** – Engaging users with updates.
 
-## 1️⃣2️⃣ Frontend DevOps & Deployment
+## 🔟.2️⃣ Frontend DevOps & Deployment
 - **Git & GitHub** – Version control.
 - **CI/CD (Continuous Integration & Deployment)** – Automating deployments.
 - **Netlify / Vercel / Firebase** – Hosting frontend apps.
 - **Docker / Kubernetes** – Containerization for frontend apps.
 
-## 1️⃣3️⃣ Future Technologies & Trends
+## 🔟.3️⃣ Future Technologies & Trends
 - **WebAssembly (WASM)** – High-performance web apps.
 - **Three.js / WebGL** – 3D graphics on the web.
 - **Micro Frontends** – Modular frontend architecture.

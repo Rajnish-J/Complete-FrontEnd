@@ -18,7 +18,7 @@ Welcome to the **JavaScript** repository! 🎉 This repo is dedicated to helping
 ## 📂 How to Get Started  
 1️⃣ **Clone the repository:**  
    ```sh
-   git clone https://github.com/Rajnish-J/JavaScript.git
+   git clone https://github.com/Rajnish-J/Complete-FrontEnd.git
    ```  
 2️⃣ **Navigate into the folder:**  
    ```sh
